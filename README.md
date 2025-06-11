@@ -2,7 +2,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ **Bienvenido a mi odisea de código** ✨
-*Desarrollador en formación | Entusiasta del desarrollo web | Resolutivo | Aprendiz de por vida*
+*Desarrollador en formación | Resolutivo | Aprendiz de por vida*
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Soy un desarrollador en formación con una pasión desbordante por la programación web y el aprendizaje continuo. Explora mis proyectos, sigue mi evolución y ¡construyamos algo increíble juntos! 🚀
