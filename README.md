@@ -1,11 +1,13 @@
 # 🌌 ¡Hola, soy Andrés Fernández! 👋
 
+```
 🎨═════════════════════════════════════════════════════🎨
-\|                                                     |
-\|     Bienvenido a mi odisea de código 🧭💻             |
-\|     Desarrollador en formación y creador digital    |
-\|                                                     |
+|                                                     |
+|     Bienvenido a mi odisea de código 🧭💻             |
+|     Desarrollador en formación y creador digital    |
+|                                                     |
 🎨═════════════════════════════════════════════════════🎨
+```
 
 Soy un desarrollador en formación con una pasión desbordante por la programación web y el aprendizaje continuo. Explora mis proyectos, sigue mi evolución y ¡construyamos algo increíble juntos!
 
@@ -71,7 +73,7 @@ Este repositorio es mi espacio creativo para experimentar, aprender y compartir.
 * 🐦 [Twitter](#)
 * 💼 [LinkedIn](#) *(Agrega tu perfil)*
 * 🎵 [Spotify](#) *(Vincula tu cuenta si quieres compartir música)*
-* 📧 Email: *\[*[*tuemail@ejemplo.com*](mailto:tuemail@ejemplo.com)*]*
+* 📧 Email: *[tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)*
 
 ---
 
