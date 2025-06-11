@@ -1,103 +1,98 @@
-🌌 ¡Hola, soy Andrés Fernández! 👋 🌌
+# 🌌 ¡Hola, soy Andrés Fernández! 👋
+
 🎨═════════════════════════════════════════════════════🎨
-|                                                     |
-|       Bienvenido a mi odisea de código!             |
-|       Desarrollador en formación y creador          |
-|                                                     |
+\|                                                     |
+\|     Bienvenido a mi odisea de código 🧭💻          |
+\|     Desarrollador en formación y creador digital    |
+\|                                                     |
 🎨═════════════════════════════════════════════════════🎨
 
-Soy un desarrollador en formación con una pasión desbordante por la programación y el desarrollo web. ¡Explora mi perfil, descubre mis proyectos y colaboremos para construir algo increíble!
+Soy un desarrollador en formación con una pasión desbordante por la programación web y el aprendizaje continuo. Explora mis proyectos, sigue mi evolución y ¡construyamos algo increíble juntos!
 
-📌 Sobre mí
+---
 
-👀 Me apasiona la programación en todas sus formas: backend, frontend, y más allá.
-🌱 Estoy aprendiendo Desarrollo de Aplicaciones Web, con foco en React, Node.js y Python.
-💞️ ¡Abierto a colaborar en proyectos innovadores! (Buscando la idea perfecta).
-📫 Contáctame en mi correo, GitHub, o Twitter.
-😄 Pronombres: él/él
-⚡ Dato curioso: ¡Nunca me rindo! Siempre encuentro tiempo para aprender y crear.
-🎮 Actualmente usando: GitHub Desktop, VS Code.
+## 📌 Sobre mí
 
+* 👀 Apasionado por la programación: backend, frontend y todo lo que haya en medio.
+* 🌱 Actualmente aprendiendo: **React**, **Node.js**, **Python**, y **SQL**.
+* 💞️ Abierto a colaborar en proyectos innovadores (¡buscando esa gran idea!).
+* 📫 Contáctame vía correo, GitHub o Twitter.
+* 😄 Pronombres: él/él
+* ⚡ Fun fact: ¡Nunca me rindo! Siempre encuentro un momento para aprender y crear.
+* 🎮 Herramientas favoritas: **GitHub Desktop**, **VS Code**.
 
-💻 Habilidades
+---
 
+## 💻 Habilidades
 
+| Tecnología        | Nivel      | Notas                               |
+| ----------------- | ---------- | ----------------------------------- |
+| 🌐 HTML/CSS       | Intermedio | Maquetación moderna y responsive    |
+| 🌐 JavaScript     | Básico     | DOM, funciones, lógica básica       |
+| 🛠️ Git/GitHub    | Intermedio | Flujo de trabajo con ramas, commits |
+| 📚 En aprendizaje | -          | React, Node.js, Python, SQL         |
 
-Tecnología
-Nivel
-Notas
+---
 
+## 🚀 Proyectos Destacados
 
+* **🌐 Web Personal** – Portafolio interactivo (En desarrollo)
+* **📝 To-Do App** – Aplicación de tareas con JavaScript (Idea en proceso)
+* **📖 Blog Estático** – Sitio HTML/CSS para publicaciones personales (Planeado)
 
-🌐 HTML/CSS
-Intermedio
-Maquetación y diseño responsivo
+✨ *Más proyectos en camino...*
+🔗 [Ver todos mis repositorios](https://github.com/Andres-glitch-cell)
 
+---
 
-🌐 JavaScript
-Básico
-Funciones y DOM
+## 📊 GitHub Insights
 
+Este repositorio es mi espacio creativo para experimentar, aprender y compartir.
+📌 Visión: Crear soluciones que inspiren y resuelvan problemas.
+🤝 Colaboración: ¿Tienes ideas? ¡Ábrelas en los *Issues*!
+📚 Documentación: En proceso…
 
-🛠️ Git/GitHub
-Intermedio
-Control de versiones
+---
 
+## 🖼️ Banner
 
-🎓 En aprendizaje
--
-React, Node.js, Python, SQL
+> Puedes usar un GIF o imagen personalizada.
+> Ejemplo:
 
+```md
+![Banner](https://github.com/Andres-glitch-cell/Andres-glitch-cell/blob/main/programming-banner.gif)
+```
 
+---
 
-🚀 Proyectos
-Aquí algunos proyectos en los que estoy trabajando o planeo desarrollar:
+## 🌐 Redes y Contacto
 
-Proyecto 1: Web Personal - (En desarrollo: Portafolio interactivo)
-Proyecto 2: To-Do App - (Idea: Aplicación de tareas con JS)
-Proyecto 3: Blog Estático - (Planeado: Sitio con HTML/CSS)
+* 💻 [GitHub](https://github.com/Andres-glitch-cell)
+* 🐦 [Twitter](#)
+* 💼 [LinkedIn](#) *(Agrega tu perfil)*
+* 🎵 [Spotify](#) *(Vincula tu cuenta si quieres compartir música)*
+* 📧 Email: *\[*[*tuemail@ejemplo.com*](mailto:tuemail@ejemplo.com)*]*
 
-¡Más proyectos en camino! 🌟 Ver todos
+---
 
-📊 Estadísticas y Badges
+## ❤️ Contribuye
 
+¿Te gustaría colaborar?
 
-🌍 Mi viaje en GitHub
-Este repositorio, Andres-glitch-cell/Andres-glitch-cell, es mi espacio para experimentar, aprender y compartir. ¡Es un reflejo de mi evolución como desarrollador!
+* ⭐ Dale una estrella a este repo si te gustó.
+* 🍴 Haz un fork para mejorar algo o proponer ideas.
+* 🐛 Reporta errores o sugiere mejoras en los *Issues*.
 
-💡 Visión: Crear soluciones tecnológicas que inspiren y resuelvan problemas.
-🤝 Colaboración: ¡Abre un issue o propón ideas en Issues!
-📚 Recursos: Documentación (próximamente).
+---
 
+## ℹ️ Extras
 
-🎨 Banner Visual
+* 🗓️ Última actualización: **11 de junio de 2025**
+* 🌍 Idiomas: Español (nativo), Inglés (básico)
+* 💡 Inspiración: Open Source, comunidades de desarrollo
 
-(Nota: Este GIF muestra código animado. Si prefieres otro, sube uno propio a tu repo, ej. ![Banner](https://github.com/Andres-glitch-cell/Andres-glitch-cell/blob/main/programming-banner.gif).)
+---
 
-🌐 Redes y Contacto
+### ❤️ Hecho con amor
 
-GitHub  
-Twitter  
-LinkedIn (Añade tu perfil)  
-🎵 Spotify (Vincula tu cuenta)  
-📧 Email
-
-
-❤️ Contribuye
-¿Quieres colaborar? ¡Echa un vistazo a mis Issues o crea uno nuevo!
-
-⭐ Star este repo si te gusta.
-🍴 Fork it y aporta tus ideas.
-🐛 Reporta bugs en Issues.
-
-
-ℹ️ Más sobre mí
-
-📅 Última actualización: 11 de junio de 2025, 22:48 CEST
-🎮 Actualmente usando: GitHub Desktop, VS Code
-🌍 Idiomas: Español (nativo), Inglés (básico)
-💡 Inspiración: Open Source, comunidades de devs.
-
-
-❤️ Hecho con amor
-Hecho con ❤️ por Andrés Fernández¡Gracias por visitar mi perfil! ¡Regresa pronto y sigamos creando!
+**Gracias por visitar mi perfil. ¡Regresa pronto y sigamos creando! 🚀**
