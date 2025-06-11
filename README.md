@@ -1,98 +1,134 @@
-# 🌌 Hey there, I'm Andrés Fernández! 👋
+# 🌌 ¡Hola, soy Andrés Fernández! 👋
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-✨ **Welcome to my Coding Journey!** ✨  
-_Aspiring Developer | Web Enthusiast | Problem Solver | Lifelong Learner_  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+🎨═════════════════════════════════════════════════════🎨
+|                                                     |
+|     Bienvenido a mi odisea de código 🧭💻             |
+|     Desarrollador en formación y creador digital    |
+|                                                     |
+🎨═════════════════════════════════════════════════════🎨
+```
 
-I’m a passionate developer in training, fueled by curiosity, creativity, and a never-ending desire to grow. Whether it’s backend, frontend, or anything in between, I love tackling challenges head-on and building cool projects that make a difference. Dive into my world, watch my evolution, and let’s create something extraordinary together! 🚀
+Soy un desarrollador en formación con una pasión desbordante por la programación web y el aprendizaje continuo. Explora mis proyectos, sigue mi evolución y ¡construyamos algo increíble juntos!
 
 ---
 
-## 📌 About Me
+## 📌 Sobre mí
 
-⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌  
-👨‍💻 **About Me** — Passionate Coder & Lifelong Learner  
+⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌
+👨‍💻 **Sobre mí** — Curioso. Creativo. Constante.
 ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌ ⬤ ◉ ◌
 
-- 👀 Passionate about all things programming — backend, frontend, APIs, databases, and everything in between.  
-- 🌱 Currently deepening my skills in **React**, **Node.js**, **Python**, **SQL**, and **TypeScript**.  
-- 💡 Always exploring new technologies like **Docker**, **GraphQL**, and **AWS**.  
-- 💞️ Open to collaborating on innovative projects and learning from the amazing dev community.  
-- 📫 Feel free to reach me via email, GitHub, or Twitter — I love connecting!  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I’m a problem solver who thrives on challenges and keeps a positive mindset.  
-- 🎮 Favorite tools & editors: **GitHub Desktop**, **VS Code**, **Postman**, and **Figma**.  
+* 👀 Apasionado por la programación: backend, frontend y todo lo que haya en medio.
+* 🌱 Actualmente aprendiendo: **React**, **Node.js**, **Python**, y **SQL**.
+* 💞️ Abierto a colaborar en proyectos innovadores (¡buscando esa gran idea!).
+* 📫 Contáctame vía correo, GitHub o Twitter.
+* 😄 Pronombres: él/él
+* ⚡ Fun fact: ¡Nunca me rindo! Siempre encuentro un momento para aprender y crear.
+* 🎮 Herramientas favoritas: **GitHub Desktop**, **VS Code**.
 
 ---
 
-## 💻 Skills & Technologies
+## 💻 Habilidades
 
-↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺  
-💡 **Skills & Technologies** — What I’m Working With  
-↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺
+↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺
+💡 **Habilidades** — Lo que manejo y lo que viene...
+↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺ ↻ ↺
 
-| Technology          | Level        | Notes                                            |  
-| ------------------- | ------------ | ------------------------------------------------|  
-| 🌐 HTML5 & CSS3     | Intermediate | Responsive layouts, Flexbox, Grid, animations   |  
-| 🌐 JavaScript       | Intermediate | ES6+, DOM manipulation, asynchronous programming|  
-| 🔥 React            | Beginner     | Functional components, hooks, state management  |  
-| 🐍 Python           | Beginner     | Data structures, scripting, Flask basics        |  
-| 🛠️ Git & GitHub     | Intermediate | Branching, pull requests, CI/CD basics           |  
-| 📦 Node.js & Express | Beginner     | REST API development                             |  
-| 🗄️ SQL & Databases  | Beginner     | CRUD operations, basic optimization              |  
-| ☁️ Cloud & DevOps   | Learning     | Docker, AWS basics, CI/CD pipelines              |  
+| Tecnología        | Nivel      | Notas                               |
+| ----------------- | ---------- | ----------------------------------- |
+| 🌐 HTML/CSS       | Intermedio | Maquetación moderna y responsive    |
+| 🌐 JavaScript     | Básico     | DOM, funciones, lógica básica       |
+| 🛠️ Git/GitHub    | Intermedio | Flujo de trabajo con ramas, commits |
+| 📚 En aprendizaje | -          | React, Node.js, Python, SQL         |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
-➤ ➜ ➔ ➙ ➛ ➜ ➤ ➔ ➙ ➛ ➜ ➤ ➔ ➙ ➛ ➜ ➤  
-🚀 **Featured Projects** — Check Out What I’m Building  
+➤ ➜ ➔ ➙ ➛ ➜ ➤ ➔ ➙ ➛ ➜ ➤ ➔ ➙ ➛ ➜ ➤
+🚀 **Proyectos Destacados** — Explorando ideas en código
 ➤ ➜ ➔ ➙ ➛ ➜ ➤ ➔ ➙ ➛ ➜ ➤ ➔ ➙ ➛ ➜ ➤
 
-- **🌐 Personal Website**  
-  An interactive portfolio showcasing my projects, skills, and journey. Built with React and hosted on GitHub Pages.  
-  🔗 [Live Demo](#) | [Source Code](https://github.com/Andres-glitch-cell/personal-website)
+* **🌐 Web Personal** – Portafolio interactivo (En desarrollo)
+* **📝 To-Do App** – Aplicación de tareas con JavaScript (Idea en proceso)
+* **📖 Blog Estático** – Sitio HTML/CSS para publicaciones personales (Planeado)
 
-- **📝 To-Do App**  
-  A lightweight, intuitive task manager app built with vanilla JavaScript. Focus on UX and clean design.  
-  🔗 [Live Demo](#) | [Source Code](https://github.com/Andres-glitch-cell/todo-app)
-
-- **📖 Static Blog**  
-  A minimalistic, responsive blog site using pure HTML and CSS to practice design fundamentals. Planned to integrate with a CMS.  
-  🔗 [Coming Soon]
-
-✨ *Many more exciting projects are on their way!*  
-🔗 [Explore all my repos](https://github.com/Andres-glitch-cell)
+✨ *Más proyectos en camino...*
+🔗 [Ver todos mis repositorios](https://github.com/Andres-glitch-cell)
 
 ---
 
-## 📊 GitHub Insights & Contributions
+## 📊 GitHub Insights
 
-▁ ▂ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▂ ▁ ▁ ▂ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▂ ▁  
-📊 **GitHub Insights & Contributions** — My Coding Playground  
+▁ ▂ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▂ ▁ ▁ ▂ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▂ ▁
+📊 **GitHub Insights** — Donde sucede la magia
 ▁ ▂ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▂ ▁ ▁ ▂ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▂ ▁
 
-This repo is my creative playground where I experiment, learn, and share my journey.  
-- 📌 Vision: Build solutions that inspire and solve real problems.  
-- 🤝 Collaboration: Got ideas or want to contribute? Open an *Issue* or submit a *Pull Request*!  
-- 📝 Documentation: Improving every day — check back for guides and tutorials.  
-- 📈 GitHub Stats:  
-  ![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-glitch-cell&show_icons=true&theme=radical)  
-- 🏆 Top Languages:  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-glitch-cell&layout=compact&theme=radical)
+Este repositorio es mi espacio creativo para experimentar, aprender y compartir.
+📌 Visión: Crear soluciones que inspiren y resuelvan problemas.
+🤝 Colaboración: ¿Tienes ideas? ¡Ábrelas en los *Issues*!
+📚 Documentación: En proceso…
 
 ---
 
-## 🖼️ Visual Banner
+## 🖼️ Banner
 
-░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░  
-🖼️ **Visual Banner** — Make Your Profile Pop!  
+░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░
+🖼️ **Banner Visual** — Un toque de estilo en tu perfil
 ░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░ ░▒▓█▌▐█▓▒░
 
-Add some personality to your README with a custom GIF or banner!  
-Example:  
+> Puedes usar un GIF o imagen personalizada.
+> Ejemplo:
 
 ```md
 ![Banner](https://github.com/Andres-glitch-cell/Andres-glitch-cell/blob/main/programming-banner.gif)
+```
+
+---
+
+## 🌐 Redes y Contacto
+
+🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐
+📡 **Conecta conmigo** — ¡Estoy a un clic de distancia!
+🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐🌍🌐
+
+* 💻 [GitHub](https://github.com/Andres-glitch-cell)
+* 🐦 [Twitter](#)
+* 💼 [LinkedIn](#) *(Agrega tu perfil)*
+* 🎵 [Spotify](#) *(Vincula tu cuenta si quieres compartir música)*
+* 📧 Email: *[tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)*
+
+---
+
+## ❤️ Contribuye
+
+⭐ 🔧 🍴 🐛 ⭐ 🔧 🍴 🐛 ⭐ 🔧 🍴 🐛 ⭐ 🔧 🍴 🐛
+🤝 **Contribuye** — Tu ayuda hace la diferencia
+⭐ 🔧 🍴 🐛 ⭐ 🔧 🍴 🐛 ⭐ 🔧 🍴 🐛 ⭐ 🔧 🍴 🐛
+
+¿Te gustaría colaborar?
+
+* ⭐ Dale una estrella a este repo si te gustó.
+* 🍴 Haz un fork para mejorar algo o proponer ideas.
+* 🐛 Reporta errores o sugiere mejoras en los *Issues*.
+
+---
+
+## ℹ️ Extras
+
+ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️
+🧠 **Extras** — Cositas que me definen un poco más
+ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️ ℹ️
+
+* 🗓️ Última actualización: **11 de junio de 2025**
+* 🌍 Idiomas: Español (nativo), Inglés (básico)
+* 💡 Inspiración: Open Source, comunidades de desarrollo
+
+---
+
+### ❤️ Hecho con amor
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+**Gracias por visitar mi perfil. ¡Regresa pronto y sigamos creando! 🚀**
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
