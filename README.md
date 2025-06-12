@@ -1,76 +1,74 @@
-# 🌌 ¡Hola, soy Andrés Fernández!
+# 🌌 Hi, I'm Andrés Fernández!
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ **Bienvenido a mi odisea de código** ✨
-*Desarrollador en formación | Entusiasta del desarrollo web | Resolutivo | Aprendiz de por vida*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ **Welcome to my code odyssey** ✨
+*Trainee developer | Web development enthusiast | Problem solver | Lifelong learner*
 
-Soy un desarrollador en formación con una pasión desbordante por la programación web y el aprendizaje continuo. Explora mis proyectos, sigue mi evolución y ¡construyamos algo increíble juntos! 🚀
+I'm a passionate web development trainee, eager to keep learning and growing. Check out my projects, follow my journey, and let’s build something amazing together! 🚀
 
 ---
 
-## Sobre mí
+## About Me
 
-* Apasionado por la programación: backend, frontend, APIs, bases de datos y todo lo que haya en medio.
-* Actualmente profundizando en **React**, **Node.js**, **Python**, **SQL** y **TypeScript**.
-* Explorando nuevas tecnologías como **Docker**, **GraphQL** y **AWS**.
-* Abierto a colaborar en proyectos innovadores y aprender de la comunidad dev.
-* Contáctame vía correo, GitHub o Twitter. ¡Me encanta conectar!
-* Pronombres: él/él
-* Fun fact: Soy un solucionador de problemas nato, ¡me encantan los retos!
-* Herramientas favoritas: **GitHub Desktop**, **VS Code**, **Postman**, **Figma**.
-
----
-
-## Habilidades y Tecnologías
-
-**Tecnologías con las que estoy trabajando**
-
-| Tecnología           | Nivel          | Notas                                              |
-| -------------------- | -------------- | -------------------------------------------------- |
-| HTML5 & CSS3         | Intermedio     | Maquetación responsive, Flexbox, Grid, animaciones |
-| JavaScript           | Intermedio     | ES6+, manipulación del DOM, asincronía             |
-| React                | Principiante   | Componentes funcionales, hooks, gestión de estado  |
-| Python               | Principiante   | Estructuras de datos, scripting, Flask básico      |
-| Git & GitHub         | Intermedio     | Branching, pull requests, CI/CD básico             |
-| Node.js & Express    | Principiante   | Desarrollo de APIs REST                            |
-| SQL & Bases de Datos | Principiante   | Operaciones CRUD, optimización básica              |
-| Cloud & DevOps       | En aprendizaje | Docker, fundamentos de AWS, CI/CD pipelines        |
+* Passionate about programming: backend, frontend, APIs, databases, and everything in between.
+* Currently diving deeper into **React**, **Node.js**, **Python**, **SQL**, and **TypeScript**.
+* Exploring emerging tech like **Docker**, **GraphQL**, and **AWS**.
+* Open to collaboration on innovative projects and always learning from the dev community.
+* Contact me via email, GitHub, or Twitter – I love connecting!
+* Pronouns: he/him
+* Fun fact: I love solving problems — challenges are my jam!
+* Favorite tools: **GitHub Desktop**, **VS Code**, **Postman**, **Figma**.
 
 ---
 
-## Proyectos Destacados
+## Skills & Technologies
 
-**Proyectos en los que estoy trabajando**
+**Technologies I'm working with**
 
-* **Web Personal**
-  Portafolio interactivo que muestra mis proyectos, habilidades y evolución. Construido con React y alojado en GitHub Pages.
-  🔗 [Demo](#) | [Código fuente](https://github.com/Andres-glitch-cell/personal-website)
+| Technology        | Level        | Notes                                          |
+| ----------------- | ------------ | ---------------------------------------------- |
+| HTML5 & CSS3      | Intermediate | Responsive layouts, Flexbox, Grid, animations  |
+| JavaScript        | Intermediate | ES6+, DOM manipulation, async programming      |
+| React             | Beginner     | Functional components, hooks, state management |
+| Python            | Beginner     | Data structures, scripting, basic Flask        |
+| Git & GitHub      | Intermediate | Branching, pull requests, basic CI/CD          |
+| Node.js & Express | Beginner     | REST API development                           |
+| SQL & Databases   | Beginner     | CRUD operations, basic optimization            |
+| Cloud & DevOps    | Learning     | Docker, AWS basics, CI/CD pipelines            |
+
+---
+
+## Featured Projects
+
+**What I'm working on**
+
+* **Personal Website**
+  An interactive portfolio showcasing my projects, skills, and growth. Built with React and hosted on GitHub Pages.
+  🔗 [Demo](#) | [Source Code](https://github.com/Andres-glitch-cell/personal-website)
 
 * **To-Do App**
-  Administrador de tareas ligero e intuitivo hecho con JavaScript puro. Enfocado en UX y diseño limpio.
-  🔗 [Demo](#) | [Código fuente](https://github.com/Andres-glitch-cell/todo-app)
+  A clean and intuitive task manager built with vanilla JavaScript. Focused on UX and simple design.
+  🔗 [Demo](#) | [Source Code](https://github.com/Andres-glitch-cell/todo-app)
 
-* **Blog Estático**
-  Sitio minimalista y responsive usando solo HTML y CSS, pensado para prácticas de diseño. Planeo integrarlo con un CMS.
-  🔗 \[Próximamente]
+* **Static Blog**
+  A minimalist, responsive blog built with just HTML and CSS. Planning to integrate it with a CMS.
+  🔗 \[Coming Soon]
 
-*¡Muchos más proyectos emocionantes en camino!*
-🔗 [Explora todos mis repos](https://github.com/Andres-glitch-cell)
+✨ *More exciting projects coming soon!*
+🔗 [See all my repos](https://github.com/Andres-glitch-cell)
 
 ---
 
 ## GitHub Insights & Contributions
 
-**Estadísticas de GitHub y contribuciones**
+**Stats and contributions**
 
-Este repositorio es mi espacio creativo para experimentar, aprender y compartir.
+This repo is my creative space to experiment, learn, and share.
 
-* Visión: Crear soluciones que inspiren y resuelvan problemas reales.
-* Colaboración: ¿Ideas o ganas de contribuir? Abre un *Issue* o envía un *Pull Request*.
-* Documentación: En constante mejora — vuelve pronto para ver guías y tutoriales.
+* Vision: Create solutions that inspire and solve real-world problems.
+* Collaboration: Got ideas or want to contribute? Open an *Issue* or send a *Pull Request*.
+* Docs: Always improving — come back soon for guides and tutorials.
 
-### Estadísticas visuales
+### Visual Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres-glitch-cell\&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-glitch-cell\&layout=compact\&theme=radical)
@@ -79,10 +77,9 @@ Este repositorio es mi espacio creativo para experimentar, aprender y compartir.
 
 ---
 
-## Banner Visual
+## Visual Banner
 
-Agrega algo de personalidad con un GIF o imagen personalizada.
-Ejemplo:
+Add a bit of personality with a custom GIF or image. Example:
 
 ```md
 ![Banner](https://github.com/Andres-glitch-cell/Andres-glitch-cell/blob/main/programming-banner.gif)
@@ -90,34 +87,34 @@ Ejemplo:
 
 ---
 
-## Redes y Contacto
+## Contact & Socials
 
 * [GitHub](https://github.com/Andres-glitch-cell)
 * [Twitter](#)
-* [LinkedIn](#) *(Agrega tu perfil)*
-* [Spotify](#) *(Comparte tu música si lo deseas)*
-* Email: *[tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)*
+* [LinkedIn](#) *(Add your profile)*
+* [Spotify](#) *(Share your music if you'd like)*
+* Email: *[youremail@example.com](mailto:youremail@example.com)*
 
 ---
 
-## Contribuye
+## Contribute
 
-¿Te gustaría colaborar?
+Want to collaborate?
 
-* Dale una estrella a este repo si te gustó.
-* Haz un fork para proponer ideas o mejoras.
-* Reporta errores o sugiere cambios en los *Issues*.
+* ⭐ Star this repo if you liked it.
+* 🍝 Fork it to suggest ideas or improvements.
+* 🐛 Report issues or request features via *Issues*.
 
 ---
 
 ## Extras
 
-* Última actualización: **11 de junio de 2025**
-* Idiomas: Español (nativo), Inglés (básico)
-* Inspiración: Open Source, comunidades dev
+* 🗓️ Last updated: **June 11, 2025**
+* 🌍 Languages: Spanish (native), English (basic)
+* 💡 Inspired by: Open Source, dev communities
 
 ---
 
-### Hecho con amor
+### ❤️ Made with passion
 
-**Gracias por visitar mi perfil. ¡Regresa pronto y sigamos creando! 🚀**
+**Thanks for visiting my profile — come back soon and let’s keep building! 🚀**
