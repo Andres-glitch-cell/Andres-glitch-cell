@@ -70,10 +70,15 @@ This repo is my creative space to experiment, learn, and share.
 
 ### Visual Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres-glitch-cell\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-glitch-cell\&layout=compact\&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andres-glitch-cell\&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Andres-glitch-cell\&theme=radical\&column=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andres-glitch-cell&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-glitch-cell&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Andres-glitch-cell&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Andres-glitch-cell&theme=radical&column=4" alt="Trophies" />
+</p>
 
 ---
 
